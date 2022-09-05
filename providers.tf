@@ -12,7 +12,7 @@ provider "google" {
   
   credentials = file("/home/eduardo_bernardo/gcpkey.json")
 
-  project = "labdevops-edubern-050922"
+  project = "dedron-labdevopscloud-361618"
   region  = "southamerica-east1"
   zone    = "southamerica-east1-b"
 }
